@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T15:14:12.654Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lAs02Ot3LOCzDRYW7e3O" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T15:14:21.538Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rE5H58c9P7oVd6OovGnY" version="21.2.1" type="github">
   <diagram name="Page-1" id="Cl_RyHP-qeL_iuJ1_8LN">
     <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M_4hoaOgUC3wFRqDc9iV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ln6owdjJWBcUK8_FFF5o-1" target="M_4hoaOgUC3wFRqDc9iV-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ln6owdjJWBcUK8_FFF5o-1" value="Public Websocket Server" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
           <mxGeometry x="385" y="30" width="80" height="80" as="geometry" />
