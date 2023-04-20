@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T15:23:26.999Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-w07zh2XTm8b-PdQCJQF" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T15:24:05.085Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aptxLMxg2D2-Flgm5n5V" version="21.2.1" type="github">
   <diagram name="Page-1" id="dr6T8ekn_CmlX9sgDNha">
     <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,10 +30,21 @@
           <mxGeometry x="170" y="220" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceJRhMyYK9NuQH_3p3k0-9" value="Proxy Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="90" width="90" height="30" as="geometry" />
+          <mxGeometry x="95" y="90" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceJRhMyYK9NuQH_3p3k0-10" value="Websocket Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-11" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="660" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ceJRhMyYK9NuQH_3p3k0-11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-13" value="Proxy Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="90" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
