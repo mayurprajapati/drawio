@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T15:22:23.762Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="gwP7K2DGejOMd1fcPNyi" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T15:23:26.999Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-w07zh2XTm8b-PdQCJQF" version="21.2.1" type="github">
   <diagram name="Page-1" id="dr6T8ekn_CmlX9sgDNha">
     <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,6 +28,12 @@
         </mxCell>
         <mxCell id="ceJRhMyYK9NuQH_3p3k0-8" value="Connection request with UUID header" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=10;" vertex="1" parent="1">
           <mxGeometry x="170" y="220" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-9" value="Proxy Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-10" value="Websocket Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="90" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
