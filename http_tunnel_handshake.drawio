@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T15:36:35.362Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_BJGBX64NoLFc_iunZuj" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T15:37:15.898Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZexZGnvM6qjGsSKcjZ2A" version="21.2.1" type="github">
   <diagram name="Page-1" id="dr6T8ekn_CmlX9sgDNha">
     <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -137,6 +137,12 @@
         </mxCell>
         <mxCell id="ceJRhMyYK9NuQH_3p3k0-37" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">
           <mxGeometry x="661" y="115" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-44" value="Actual HTTP Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="650" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-45" value="Actual HTTP Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="713" y="651" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
