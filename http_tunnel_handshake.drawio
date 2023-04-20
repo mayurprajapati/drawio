@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T15:31:46.464Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="gOHBb5fUx9bxwDfZ6oec" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T15:32:19.199Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2YB_u1GLiLeEeZ07Bd2R" version="21.2.1" type="github">
   <diagram name="Page-1" id="dr6T8ekn_CmlX9sgDNha">
     <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,10 +61,10 @@
             <mxPoint x="425" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceJRhMyYK9NuQH_3p3k0-18" value="1. Server stores connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-18" value="1. Server stores&lt;br&gt;&amp;nbsp;Proxy Client connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ceJRhMyYK9NuQH_3p3k0-19" value="2. Server stores connection and redirects all upcoming messages to back and forth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ceJRhMyYK9NuQH_3p3k0-19" value="2. Server stores Proxy Server connection and redirects all upcoming messages to back and forth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="460" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ceJRhMyYK9NuQH_3p3k0-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
